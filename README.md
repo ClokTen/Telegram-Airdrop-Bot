@@ -1,4 +1,4 @@
-# Clokten Telegram Airdrop Bot
+# ClokTen Telegram Airdrop Bot
 
 This Telegram bot collects wallet addresses from users in my Clokten Telegram channel and allows you to export the collected addresses to a CSV file.
 
